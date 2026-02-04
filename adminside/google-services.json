@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368554695433",
+    "project_id": "vechicleapp-2dd09",
+    "storage_bucket": "vechicleapp-2dd09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368554695433:android:bf8d87cd0c1119d131d1d8",
+        "android_client_info": {
+          "package_name": "com.example.adminside"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8kKJdhMHgYC1-X9ZYYQIv7fFxi1xNv_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368554695433:android:949f043580a5313e31d1d8",
+        "android_client_info": {
+          "package_name": "com.example.vechicleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8kKJdhMHgYC1-X9ZYYQIv7fFxi1xNv_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
